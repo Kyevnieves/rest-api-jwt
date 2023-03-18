@@ -7,7 +7,7 @@
     "dev": "concurrently \"tsc -w\" \"nodemon dist/src/index.js\"",
     "start": "node dist/src/index.js"
   },
-  "engine": {
+  "engines": {
     "node": "14.20.1"
   },
   "author": "keyver nieves",
